@@ -1,0 +1,22 @@
+{
+  "name": "nodeazuretest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jplane/nodeazuretest.git"
+  },
+  "author": "Josh Lane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jplane/nodeazuretest/issues"
+  },
+  "homepage": "https://github.com/jplane/nodeazuretest",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
